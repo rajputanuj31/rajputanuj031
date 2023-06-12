@@ -6,7 +6,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajputanuj31&layout=compact)
 
 
-<a href="https://rajputanuj31.github.io/Portfolio/" target=" "> <h2> Portfolio Website </h2> </a>
+<h3><a href="https://rajputanuj31.github.io/Portfolio/" target="_blank">Portfolio Website</a></h3>
 
 
 -How to reach me **rajputanuj041@gmail.com**
