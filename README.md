@@ -2,7 +2,7 @@
 
 
 
-![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajputanuj31&show_icons=true&theme=radical)
+![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajputanuj31&include_all_commits=true&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajputanuj31&layout=compact)
 
 
